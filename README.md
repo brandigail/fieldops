@@ -2,7 +2,7 @@
 
 A mobile-first tool for field technicians. Work a dispatch queue by priority, run inspection checklists on each asset, take photos stamped with the time and GPS position, collect a customer signature and export a PDF summary. It installs as an app and works with no connection.
 
-**Live demo:** TBD (built and tested locally, not yet deployed)
+**Live demo:** https://fieldops-384.netlify.app
 
 ![Dispatch queue on a phone](docs/screenshots/queue-mobile.png)
 
